@@ -1,0 +1,8 @@
+{
+  "name": "HR Pro Simulator",
+  "description": "An advanced AI-powered HR interview simulator that uses the Gemini Live API for real-time professional coaching, interview practice, and workplace scenario training.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
